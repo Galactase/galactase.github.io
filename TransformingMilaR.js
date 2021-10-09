@@ -500,18 +500,18 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"http://github.com/galactase/galactase.github.io/images/lab.png", id:"lab"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping1.png", id:"Sleeping1"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping2.png", id:"Sleeping2"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping3.png", id:"Sleeping3"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping4.png", id:"Sleeping4"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Wake1.png", id:"Wake1"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Wake2.png", id:"Wake2"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Wake3.png", id:"Wake3"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Wake4.png", id:"Wake4"},
-		{src:"http://github.com/galactase/galactase.github.io/images/Wake5.png", id:"Wake5"},
-		{src:"http://github.com/galactase/galactase.github.io/images/TransformingMilaR_atlas_.png", id:"TransformingMilaR_atlas_"},
-		{src:"http://github.com/galactase/galactase.github.io/images/TransformingMilaR_atlas_2.png", id:"TransformingMilaR_atlas_2"}
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/lab.png", id:"lab"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Sleeping1.png", id:"Sleeping1"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Sleeping2.png", id:"Sleeping2"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Sleeping3.png", id:"Sleeping3"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Sleeping4.png", id:"Sleeping4"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Wake1.png", id:"Wake1"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Wake2.png", id:"Wake2"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Wake3.png", id:"Wake3"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Wake4.png", id:"Wake4"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/Wake5.png", id:"Wake5"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/TransformingMilaR_atlas_.png", id:"TransformingMilaR_atlas_"},
+		{src:"https://github.com/Galactase/galactase.github.io/blob/main/images/TransformingMilaR_atlas_2.png", id:"TransformingMilaR_atlas_2"}
 	],
 	preloads: []
 };
