@@ -500,18 +500,18 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/lab.png", id:"lab"},
-		{src:"images/Sleeping1.png", id:"Sleeping1"},
-		{src:"images/Sleeping2.png", id:"Sleeping2"},
-		{src:"images/Sleeping3.png", id:"Sleeping3"},
-		{src:"images/Sleeping4.png", id:"Sleeping4"},
-		{src:"images/Wake1.png", id:"Wake1"},
-		{src:"images/Wake2.png", id:"Wake2"},
-		{src:"images/Wake3.png", id:"Wake3"},
-		{src:"images/Wake4.png", id:"Wake4"},
-		{src:"images/Wake5.png", id:"Wake5"},
-		{src:"images/TransformingMilaR_atlas_.png", id:"TransformingMilaR_atlas_"},
-		{src:"images/TransformingMilaR_atlas_2.png", id:"TransformingMilaR_atlas_2"}
+		{src:"http://github.com/galactase/galactase.github.io/images/lab.png", id:"lab"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping1.png", id:"Sleeping1"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping2.png", id:"Sleeping2"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping3.png", id:"Sleeping3"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Sleeping4.png", id:"Sleeping4"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Wake1.png", id:"Wake1"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Wake2.png", id:"Wake2"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Wake3.png", id:"Wake3"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Wake4.png", id:"Wake4"},
+		{src:"http://github.com/galactase/galactase.github.io/images/Wake5.png", id:"Wake5"},
+		{src:"http://github.com/galactase/galactase.github.io/images/TransformingMilaR_atlas_.png", id:"TransformingMilaR_atlas_"},
+		{src:"http://github.com/galactase/galactase.github.io/images/TransformingMilaR_atlas_2.png", id:"TransformingMilaR_atlas_2"}
 	],
 	preloads: []
 };
