@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"Transforming Mila R_atlas_", frames: [[0,0,1920,1080]]},
-		{name:"Transforming Mila R_atlas_2", frames: [[822,263,400,162],[1224,373,400,162],[420,263,400,162],[0,1411,1869,237],[420,0,1005,139],[1451,0,418,208],[1451,210,428,161],[1626,373,201,120],[420,141,1029,120],[0,0,418,1409]]}
+		{name:"index_atlas_", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_2", frames: [[420,263,400,162],[1224,373,400,162],[822,263,400,162],[0,1411,1869,237],[420,0,1005,139],[1451,0,418,208],[1451,210,428,161],[1626,373,201,120],[420,141,1029,120],[0,0,418,1409]]}
 ];
 
 
@@ -13,77 +13,77 @@ lib.ssMetadata = [
 
 
 (lib.Background = function() {
-	this.initialize(ss["Transforming Mila R_atlas_"]);
+	this.initialize(ss["index_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Button = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.ButtonDown = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.ButtonOver = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_82 = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+(lib.CachedTexturedBitmap_94 = function() {
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_83 = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+(lib.CachedTexturedBitmap_95 = function() {
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_84 = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+(lib.CachedTexturedBitmap_96 = function() {
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_85 = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+(lib.CachedTexturedBitmap_97 = function() {
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_86 = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+(lib.CachedTexturedBitmap_98 = function() {
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_87 = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+(lib.CachedTexturedBitmap_99 = function() {
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.change = function() {
-	this.initialize(ss["Transforming Mila R_atlas_2"]);
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
@@ -153,7 +153,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2872,1500);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_86();
+	this.instance = new lib.CachedTexturedBitmap_98();
 	this.instance.parent = this;
 	this.instance.setTransform(151.35,-584.15,0.6778,0.6778);
 
@@ -173,7 +173,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2872,1500);
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-1436,-750);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_87();
+	this.instance_5 = new lib.CachedTexturedBitmap_99();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(117.6,-614,0.6778,0.6778);
 
@@ -231,19 +231,19 @@ p.nominalBounds = new cjs.Rectangle(0,-1,401,163);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Text
-	this.instance = new lib.CachedTexturedBitmap_84();
+	this.instance = new lib.CachedTexturedBitmap_96();
 	this.instance.parent = this;
 	this.instance.setTransform(855.5,487.95,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_83();
+	this.instance_1 = new lib.CachedTexturedBitmap_95();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(1417.4,1010.45,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_82();
+	this.instance_2 = new lib.CachedTexturedBitmap_94();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(491.7,15.5,0.5,0.5);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_85();
+	this.instance_3 = new lib.CachedTexturedBitmap_97();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(1664.3,979.65,0.5,0.5);
 
@@ -500,18 +500,18 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/lab.png?1633755400041", id:"lab"},
-		{src:"images/Sleeping1.png?1633755400041", id:"Sleeping1"},
-		{src:"images/Sleeping2.png?1633755400041", id:"Sleeping2"},
-		{src:"images/Sleeping3.png?1633755400041", id:"Sleeping3"},
-		{src:"images/Sleeping4.png?1633755400041", id:"Sleeping4"},
-		{src:"images/Wake1.png?1633755400041", id:"Wake1"},
-		{src:"images/Wake2.png?1633755400041", id:"Wake2"},
-		{src:"images/Wake3.png?1633755400041", id:"Wake3"},
-		{src:"images/Wake4.png?1633755400041", id:"Wake4"},
-		{src:"images/Wake5.png?1633755400041", id:"Wake5"},
-		{src:"images/Transforming Mila R_atlas_.png?1633755400001", id:"Transforming Mila R_atlas_"},
-		{src:"images/Transforming Mila R_atlas_2.png?1633755400001", id:"Transforming Mila R_atlas_2"}
+		{src:"images/lab.png", id:"lab"},
+		{src:"images/Sleeping1.png", id:"Sleeping1"},
+		{src:"images/Sleeping2.png", id:"Sleeping2"},
+		{src:"images/Sleeping3.png", id:"Sleeping3"},
+		{src:"images/Sleeping4.png", id:"Sleeping4"},
+		{src:"images/Wake1.png", id:"Wake1"},
+		{src:"images/Wake2.png", id:"Wake2"},
+		{src:"images/Wake3.png", id:"Wake3"},
+		{src:"images/Wake4.png", id:"Wake4"},
+		{src:"images/Wake5.png", id:"Wake5"},
+		{src:"images/index_atlas_.png", id:"index_atlas_"},
+		{src:"images/index_atlas_2.png", id:"index_atlas_2"}
 	],
 	preloads: []
 };
