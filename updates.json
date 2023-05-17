@@ -1,0 +1,20 @@
+{
+  "pc": {
+    "sums_url": "ResearchStationM00-v1.0.1-pc.sums", 
+    "version": "e83f299af3aaff87d4eac5d55cfc6d9ebeef80255a94a6eb696a4b2b9798c371", 
+    "zsync_url": "ResearchStationM00-v1.0.1-pc.zsync", 
+    "json_url": "ResearchStationM00-v1.0.1-pc.update.json", 
+    "pretty_version": "v1.0.1", 
+    "sums_size": 12848, 
+    "digest": "01eecadad618e1c033b484c28ede58ca3c6c8a25e4b9f5c61305b866af1e9938"
+  }, 
+  "mac": {
+    "sums_url": "ResearchStationM00-v1.0.1-mac.sums", 
+    "version": "16362c20eae910edd7c4db29082c96384569b6c8fb584f7d8b473725bd2755b4", 
+    "zsync_url": "ResearchStationM00-v1.0.1-mac.zsync", 
+    "json_url": "ResearchStationM00-v1.0.1-mac.update.json", 
+    "pretty_version": "v1.0.1", 
+    "sums_size": 9784, 
+    "digest": "d4563d7958696435ad6c412ee7be5c5a89eba6d8498ef8d4abfb36af66b1baad"
+  }
+}

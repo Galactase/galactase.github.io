@@ -1,0 +1,4 @@
+ResearchStationM00-v1.0.1-mac.zip filter=lfs diff=lfs merge=lfs -text
+ResearchStationM00-v1.0.1-pc.zip filter=lfs diff=lfs merge=lfs -text
+ResearchStationM00-v1.0.1-pc.update.gz filter=lfs diff=lfs merge=lfs -text
+ResearchStationM00-v1.0.1-mac.update.gz filter=lfs diff=lfs merge=lfs -text
